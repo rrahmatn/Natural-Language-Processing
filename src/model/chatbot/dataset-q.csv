@@ -1,0 +1,107 @@
+patterns,tag
+Halo,halo
+Selamat Siang,siang
+Assalamualaikum,salam
+Kamu siapa?,siapa
+Kamu apa?,siapa
+Apa yang bisa kamu lakukan?,lakukan
+Chatbot tentang apa kamu?,siapa
+Siapa yang membuatmu?,buat
+Apa tugasmu?,lakukan
+Adakah keahlian tertentu dalam teknik informatika yang sebaiknya saya pelajari untuk memperluas pilihan karier di masa mendatang?,keahlian1
+"Bagaimana sistem penerimaan mahasiswa Baru di teknik Informatika apakah ada kriteria khusus,selain lewat jalur yang telah di sediakan oleh UIN?",pmb
+"Apakah fokus utama dari jurusan teknik informatika adalah pada pembuatan aplikasi, atau ada hal lainnya?",matkul1
+Tahapan sidang apa saja yang dilakukan di Jurusan Teknik Informatika?,sidang1
+"Apa saja persyaratan mengenai syarat minimum dalam menyelesaikan suatu ujian seperti UP, kompre, dan lain-lain?",sidang2
+"Kebijakan baru yang berlaku saat ini, contohnya administrasi buat menyelesaikan study",jurusan1
+Bagaimana sistem pelaksanaan tahfidz?,tahfidz
+Sebutkan langkah - langkah melaksanakan seminar ujian proposal?,sidang3
+Apa yang harus dipersiapkan sebelum melakukan seminar ujian proposal?,sidang4
+Apa yang harus dipersiapkan setelah seminar proposal?,sidang5
+Fasilitas apa saja yang ada di jurusan Teknik Informatika?,fasilitas1
+Berapa harga UKT setiap golongan di jurusan Teknik Informatika?,ukt
+Bagaimana langkah-langkah jika ingin submit jurnal di JOIN Informatika?,jurnal
+Topik penelitian apa yang sudah tidak boleh dipakai saat mengajukan tugas akhir?,skripsi1
+Bagaimana cara memperoleh informasi mengenai judul skripsi yang pernah dikerjakan oleh mahasiswa sebelumnya,skripsi2
+Apa kurikulum dan kelompok keahlian di Jurusan Teknik Informatika?,matkul2
+"Bagaimana cara memperoleh informasi terkait surat pengajuan, persoalan terkait KRS, jadwal sidang, persyaratan untuk pengajuan sidang, KP, wisuda, dan informasi lainnya terkait aspek persuratan?",admin
+Kemana saya bisa mendapatkan informasi lebih terkait jurusan teknik informatika?,admin
+"Apa saja persyaratan yang diperlukan untuk melakukan sidang KP, sidang proposal, ujian komprehensif, kolokium, dan sidang skripsi?",sidang6
+Apa itu informatika? Bagaimana Belajar Informatika?,jurusan2
+Mengapa tidak ada semester pendek di jurusan teknik informatika?,jurusan3
+Bagaimana teknik pembelajaran setiap mata kuliah?,matkul3
+Mengapa semakin tinggi semester mata kuliah menjadi semakin sulit?,matkul4
+Apa yang terjadi apabila mahasiswa dalam suatu semester terdapat 1 mata kuliah yang mendapatkan nilai dibawah rata-rata?,matkul5
+Bagaimana kurikulum setiap mata kuliah?,matkul6
+Bagaimana penilaian setiap mata kuliah?,matkul7
+Bagaimana absensi setiap mata kuliah?,matkul8
+Apakah kurikulum ini relevan dengan jaman sekarang?,matkul9
+Mata kuliah apa saja jika kita mengambil fokus pada kelompok keahlian Artificial Inteligence dan Cloud Computing?,matkul10
+Mengapa saya tidak mendapatkan kelas yang sesuai padahal masih dalam masa krs?,matkul11
+Mengapa jadwal mata kuliah yang saya miliki bisa bentrok dengan mata kuliah lain?,matkul12
+Apa saja mata kuliah yang akan di kontrakan di tiap semester?,matkul13
+"Apakah web eknows,salam,dan if Digital pernah maintenance/melakukan pengecekan, perbaikan dalam mengatasi bug dll,karena d beberapa jurusan sudah tidak memakai eknows lagi sebagai tempat mengupload tugas.",jurusan4
+Kenapa tidak dibuatkan lift untuk akses ke lantai 4 ?,jurusan5
+Apakah Jurusan Teknik Informatika memiliki ruang khusus studio sendiri untuk rekaman musik atau video?,jurusan6
+Apakah AC dikelas berfungsi dengan baik?,fasilitas2
+Apa saja fasilitas yang tersedia di jurusan Informatika yang dapat mahasiswa gunakan?,fasilitas3
+Sebutkan fasilitas yang ada di setiap ruangan kelas?,fasilitas4
+Berapa total fasilitas yang ada di jurusan Teknik Informatika?,fasilitas5
+Bagaimana kualitas toilet di Jurusan Teknik Informatika?,fasilitas6
+Fasilitas apa saja yang ada di jurusan Teknik Informatika?,fasilitas7
+Apakah ada lab yang tersedia untuk digunakan di jam XXXX ?,fasilitas8
+Apa saja fasilitas yang kita dapatkan sebagai mahasiswa di jurusan teknik informatika selain kelas dan lab?,fasilitas9
+Mengapa di ruangan teknik informatika (selain ruang praktikum) itu sangat panas?,fasilitas10
+Mengapa kualitas jaringan wifi tidak bagus?,fasilitas11
+Kenapa jurusan ini terasa tertinggal dari jurusan lain? terkait magang saja seperti tidak di briefing dari awal. mungkin saat awal di semester 5 karena masih banyak waktu luang,magang12
+Apakah Teknik Informatika hanya menjadi programmer?,jurusan7
+Apakah bisa menggunakan lab di luar jam Mata Kuliah?,fasilitas12
+Apakah di Jurusan Teknik Informatika menyediakan Beasiswa ke luar negeri?,beasiswa
+Apakah bisa bekerja tanpa banyaknya sertifikat?,karir8
+Peluang kerja seperti apa yang sesuai dengan kelompok keahlian yang ada di jurusan Teknik Informatika?,karir9
+Adakah informasi mengenai kontak masing-masing dosen agar dapat kita hubungi ketika ada kepentingan?,dosen
+Kepada siapa sebaiknya bertanya atau mendapatkan informasi terkait kebijakan baru?,jurusan7
+Siapa ketua jurusan Teknik Informatika tanggal tertentu?,jurusan8
+"Mengapa teknik informatika hanya membagi dua aspek kelompok keahlian tidak fokus untuk menggali satu potensi dari mahasiswa yang lebih spesifik misalnya: UI/UX, frontend, backend, DevOps, AI Engineer, Machine Learning Engineer, Data scientist, TKJ, IoT, dll?",jurusan9
+Mengapa timeline kelulusan teknik informatika cukup lambat daripada jurusan lain?,jurusan10
+Bagaimana langkah-langkah untuk memulai karir di dunia kerja? dalam bidang apa?,karir1
+Apakah tempat magang bisa menjadi tempat kerja ketika sudah lulus ?,magang1
+Apakah bisa melakukan magang ketika sudah semester atas?,magang2
+Tempat manakah yang cocok untuk magang dan peluang apa yang bisa raih setelah lulus?,magang3
+Bagaimana cara mendapatkan informasi terkait tempat magang?,magang4
+"Bagaimana kesempatan magang bisa muncul? Apakah ada waktu yang ditentukan secara tetap, atau dinamis sesuai keadaan?",magang
+"Bagaimanakah proses untuk melakukan magang, baik secara administrais dan pelaksanaan magangnya?",magang5
+Apa saja peluang karir luar kota atau negeri yang membuat lebih mengenal dunia kerja dan karakter masyarakat disana?,karir2
+Adakah tempat magang atau bahkan tempat kerja yang kerjasama (MoU) sama UIN yang bisa dituju setelah lulus?,magang6
+Apa saja rekomendasi perusahaan untuk bekerja?,karir3
+Apakah ada informasi mengenai magang dan karir untuk mahasiswa fresh graduate jurusan informatika?,magang7
+Kejelasan tempat magang yang telah diberikan,magang8
+Apakah ada informasi magang untuk tanggal tertentu?,magang
+Apakah ada informasi lowongan pekerjaan di jurusan teknik informatika?,karir4
+Apakah ada informasi magang di jurusan teknik informatika?,magang
+Apakah ada informasi mengenai magang pada saat ini ?,magang
+Apakah ada informasi mengenai magang di jurusan pada saat ini ?,magang
+Apakah ada informasi lowongan pekerjaan dari alumni ?,karir5
+Apa saja yang harus saya persiapkan jika ingin meneruskan karir dibidang informatika?,karir6
+Apakah ada lowongan magang yang memiliki peluang bagus untuk jenjang karir ?,magang9
+Dimana saja tempat magang yang ada paidnya?,magang10
+"Apa saja sertifikasi yang tersedia di teknik informatika, apakah ada lowongan magang yang bekerjasama dengan teknik informatika uin?",karir7
+Apakah ada kesempatan magang dari jurusan teknik informatika?,magang11
+Hi,halo
+Hello,halo
+Siapa kamu?,siapa
+Kamu bisa melakukan apa?,lakukan
+Apakah ada keahlian tertentu yang sebaiknya saya pelajari untuk karir saya di masa depan,keahlian1
+Apa itu informatika?,jurusan2
+Coba jelaskan apa itu informatika?,jurusan2
+Apakah kurikulum saat ini cukup sesuai dengan jaman sekarang?,matkul9
+Apakah kurikulum saat ini cukup relevan dengan perkembangan teknologi saat ini?,matkul9
+Apa saja langkah-langkah untuk melaksanakan seminar ujian proposal?,sidang3
+Apakah jurusan teknik informatika hanya fokus pada pengembangan aplikasi atau software?,matkul1
+Apa fokus utama dari jurusan teknik informatika?,matkul1
+Fasilitas apa saja yang tersedia di setiap ruangan kelas?,fasilitas4
+Apa saja sertifikasi yang tersedia di teknik informatika?,karir7
+mengapa tidak ada sosialisasi dari akademik?,magang12
+mengapa tidak sosialisasi dari jurusan sejak awal?,magang12
+Bagaimana fasilitas di jurusan saat ini?,fasilitas1
+Apa saja fasilitas yang tersedia di jurusan teknik informatika?,fasilitas1

@@ -1,0 +1,361 @@
+{
+    "intents": [
+        {
+            "tag": "halo",
+            "responses": ["Haloo, silahkan tanyakan apa yang Anda ingin ketahui."]
+        },
+        {
+            "tag": "siang",
+            "responses": ["Selamat Siang, silahkan tanyakan apa yang Anda ingin ketahui."]
+        },
+        {
+            "tag": "salam",
+            "responses": ["Waalaikumussalam, silahkan tanyakan apa yang Anda ingin ketahui."]
+        },
+        {
+            "tag": "siapa",
+            "responses": [
+                "Saya adalah chatbot yang diciptakan untuk membantu Anda dengan menjawab pertayaan mengenai Jurusan Teknik Informatika UIN SGD BDG."
+            ]
+        },
+        {
+            "tag": "lakukan",
+            "responses": ["Saya bisa menjawab pertanyaan yang Anda berikan mengenai Jurusan Teknik Informatika UIN SGD BDG."]
+        },
+        {
+            "tag": "buat",
+            "responses": ["Saya dibuat oleh mahasiswa jurusan Teknik Informatika Semester 7"]
+        },
+        {
+            "tag": "keahlian1",
+            "responses": [
+                "Terdapat beberapa keahlian dalam teknik informatika yang bisa menjadi nilai tambah untuk memperluas peluang karier:\n1. Pengembangan Aplikasi Mobile\n2. Keamanan Cyber\n3, Pengembangan Web Full Stack\n4. Kecerdasan Buatan dan Pembelajaran Mesin\n5. Cloud Computing"
+            ]
+        },
+        {
+            "tag": "pmb",
+            "responses": ["Tidak ada kriteria khusus"]
+        },
+        {
+            "tag": "matkul1",
+            "responses": [
+                "Fokus utama dari jurusan teknik informatika tidak hanya terbatas pada pembuatan aplikasi. Meskipun pengembangan perangkat lunak dan aplikasi merupakan bagian penting, jurusan ini juga meliputi berbagai aspek seperti pengelolaan basis data, keamanan komputer, jaringan komputer, analisis data, kecerdasan buatan, dan komputasi awan. Jadi, sementara pembuatan aplikasi bisa menjadi bagian dari fokusnya, namun tidaklah menjadi satu-satunya aspek yang dipelajari dalam teknik informatika."
+            ]
+        },
+        {
+            "tag": "sidang1",
+            "responses": ["Tahapan sidang di Jurusan Teknik Informatika :\n1. Sidang Kerja Praktik\n2. Sidang Ujian Proposal\n3. Sidang Komprehensif\n4. Sidang Munaqosah\n5. Sidang Kolokium"]
+        },
+        {
+            "tag": "sidang2",
+            "responses": ["Harus menyelesaikan Kerja Praktik terlebih dahulu"]
+        },
+        {
+            "tag": "jurusan1",
+            "responses": ["Harus melunasi UKT terlebih dahulu"]
+        },
+        {
+            "tag": "tahfidz",
+            "responses": ["Untuk pelaksanaan tahfidz sendiri dilakukan setelah menyelesaikan Praktik Tilawah dan Praktik Ibadah. Kemudian ditentukan Dosen Pembimbing dan Mahasiswa melakukan setoran Hafalan Juz 30"]
+        },
+        {
+            "tag": "sidang3",
+            "responses": ["Langkah-langkah seminar ujian proposal:\n1. Penyusunan Proposal sampai BAB 3\n2. Melakukan bimbingan dengan Dosen Pembimbing\n3. Pendaftaran Seminar\n4. Siapkan Presentasi berupa materi yang jelas dan latihan presentasi\n5. Sesi Seminar yaitu Presentasikan proposal dan menjawab pertanyaan penguji\n6. Evaluasi dan Revisi"]
+        },
+        {
+            "tag": "sidang4",
+            "responses": ["Menyelesaikan Kerja Praktik, kemudian melakukan bimbingan dengan dosen pembimbing dan seleikan proposal sampai BAB 3"]
+        },
+        {
+            "tag": "sidang5",
+            "responses": ["Melanjutkan penyususan Skripsi BAB 4, dan persiapkan untuk melakukan sidang komprehensif"]
+        },
+        {
+            "tag": "fasilitas1",
+            "responses": ["Fasilitas yang ada di jurusan Teknik Informatika ada Laboratorium untuk pembelajaran Praktikum."]
+        },
+        {
+            "tag": "ukt",
+            "responses": ["Informasi lebih lanjut kunjungi web ini : https://pmb.uinsgd.ac.id/tarif-ukt/"]
+        },
+        {
+            "tag": "jurnal",
+            "responses": ["Langkah-langkah untuk submit jurnal di JOIN Informatika:\n1. Registrasi akun\n2. Siapkan berkas jurnal sesuai panduan penulisan\n3. Login ke JOIN Informatika \n4. Isi formulir online dengan detail jurnal\n5. Unggah berkas sesuai format yang diminta\n6. Jurnal akan direview sebelum diterbitkan"]
+        },
+        {
+            "tag": "skripsi1",
+            "responses": ["Sentimen Analisis karena sudah banyak yang menggunakan topik tersebut"]
+        },
+        {
+            "tag": "skripsi2",
+            "responses": ["Untuk saat ini silahkan kunjungi Perpusatakaan UIN di Lantai 2"]
+        },
+        {
+            "tag": "matkul2",
+            "responses": ["Teknik Informatika menggunakan Kurikulum OBE, untuk kelompok keahlian ada 2 bidang yaitu : Artificial Intelegence dan Cloud Computing"]
+        },
+        {
+            "tag": "admin",
+            "responses": ["Bisa menghubungi Admin Jurusan"]
+        },
+        {
+            "tag": "sidang6",
+            "responses": ["Bisa di akses melalui web jurusan Teknik Informatika https://if.uinsgd.ac.id/"]
+        },
+        {
+            "tag": "jurusan2",
+            "responses": ["Informatika adalah bidang yang mempelajari penggunaan komputer dan teknologi informasi untuk memproses dan menganalisis data, memecahkan masalah, dan mengembangkan solusi untuk berbagai kebutuhan. Ini melibatkan pemahaman tentang perangkat lunak, hardware komputer, algoritma, basis data, jaringan komputer, keamanan informasi, dan berbagai bidang terkait lainnya.\nUntuk belajar informatika, langkah-langkah yang bisa diambil antara lain:\n1. Pemahaman Konsep Dasar: Mulailah dengan memahami konsep dasar seperti algoritma, struktur data, logika pemrograman, dan arsitektur komputer.\n2. Bahasa Pemrograman: Pelajari satu atau beberapa bahasa pemrograman yang umum digunakan seperti Python, Java, JavaScript, atau C++. Pahami sintaksisnya dan coba terapkan dalam membuat program sederhana.\n3. Praktikum dan Proyek: Ikuti kursus atau praktikum yang menawarkan pengalaman praktis dalam pengembangan perangkat lunak. Buat proyek-proyek kecil atau besar untuk menerapkan apa yang telah dipelajari.\n4. Bacaan dan Sumber Belajar: Gunakan buku, tutorial online, kursus daring, dan sumber belajar lainnya untuk mendapatkan pemahaman yang lebih dalam tentang topik tertentu dalam informatika.\n5. Komunitas dan Forum: Bergabunglah dalam komunitas atau forum online seperti GitHub, Stack Overflow, atau forum diskusi terkait informatika lainnya. Ini dapat membantu dalam berbagi pengetahuan dan mendapatkan bantuan dari para profesional.\n6. Pengalaman Lapangan: Usahakan untuk mendapatkan pengalaman praktis, entah melalui magang, proyek freelance, atau bekerja dalam tim pengembangan perangkat lunak.\n7. Terus Belajar: Bidang teknologi terus berkembang. Jangan ragu untuk terus belajar dan mengikuti perkembangan terbaru dalam industri.\nBelajar informatika membutuhkan dedikasi dan konsistensi. Penting untuk memahami konsep-konsep dasar sebelum melangkah ke bidang yang lebih spesifik, dan terus mengasah keterampilan Anda melalui praktik dan pengalaman."]
+        },
+        {
+            "tag": "jurusan3",
+            "responses": ["Karena kurikulum di UIN Sunan Gunung Djati yang sudah terstruktur, fokus pada kualitas pembelajaran, kebutuhan akademik khusus, keterbatasan sumber daya, dan kebijakan institusi."]
+        },
+        {
+            "tag": "matkul3",
+            "responses": ["Teknik pembelajaran setiap mata kuliah diserahkan kepada masing-masing Dosen Pengampu"]
+        },
+        {
+            "tag": "matkul4",
+            "responses": ["Tingkat kesulitan mata kuliah meningkat seiring dengan keperluan untuk pemahaman yang lebih mendalam tentang subjek yang dipelajari. Materi yang lebih kompleks dan analitis serta harapan akan keterampilan yang lebih tinggi membuat mata kuliah pada tingkat yang lebih tinggi terasa lebih menantang bagi sebagian mahasiswa."]
+        },
+        {
+            "tag": "matkul5",
+            "responses": ["Jika seorang mahasiswa mendapatkan nilai di bawah rata-rata dalam satu mata kuliah pada suatu semester, maka harus mengulang Mata Kuliah tersebut bersama Adik Tingkat"]
+        },
+        {
+            "tag": "matkul6",
+            "responses": ["Setiap mata kuliah memiliki:\n1. Deskripsi dan tujuan.\n2. Rencana pembelajaran dengan topik, bahan bacaan, tugas, evaluasi, dan jadwal.\n3. Materi pembelajaran yang mencakup teori, praktik, atau studi kasus.\n4. Metode evaluasi dan bobot nilai.\n5. Referensi bacaan yang direkomendasikan.\n6. Proyek atau tugas yang mungkin diberikan."]
+        },
+        {
+            "tag": "matkul7",
+            "responses": ["Penilaian setiap mata kuliah diserahkan kepada dosen pengampu yang biasa nya memiliki persentase penilaian melalui tugas individu, tugas kelompok, tugas tersetruktur, UTS dan UAS"]
+        },
+        {
+            "tag": "matkul8",
+            "responses": ["Absensi dilakukan oleh Dosen Pengampu melalui Salam"]
+        },
+        {
+            "tag": "matkul9",
+            "responses": ["Kurikulum pada dasarnya dirancang untuk mencakup konsep-konsep yang relevan dengan perkembangan zaman."]
+        },
+        {
+            "tag": "matkul10",
+            "responses": ["Ada 3 mata kuliah pilihan untuk masing-masing kelompok Keahlian, yaitu :\nKelompok Keahlian Artificial Intelegence :\n1. Sains Data\n2. Deep Learning\n3. Pemrosesan Bahasa Alami\nKelompok Keahlian Cloud Computing :\n1. Keamanan Komputer dan Jaringan\n2. Ubiquitous Computing\n3. Forensika Digital"]
+        },
+        {
+            "tag": "matkul11",
+            "responses": ["Kemungkinan kelas yang mau diambil sudah penuh"]
+        },
+        {
+            "tag": "matkul12",
+            "responses": ["Bentroknya jadwal mata kuliah sering terjadi karena adanya keterbatasan dalam  ruang kelas"]
+        },
+        {
+            "tag": "matkul13",
+            "responses": ["Untuk informasi lebh lanjut dapat diakses melalui https://if.uinsgd.ac.id/kurikulum/kurikulum-obe"]
+        },
+        {
+            "tag": "jurusan4",
+            "responses": ["Web jurusan selalu di maintenance, akan tetapi untuk perihal upload tugas itu bagaimana kebijakan dari dosen mata kuliah tersebut."]
+        },
+        {
+            "tag": "jurusan5",
+            "responses": ["Untuk sekarang mungkin blm ada, dikarenakan ada beberapa fasilitas lain yang harus dibenahi"]
+        },
+        {
+            "tag": "jurusan6",
+            "responses": ["Untuk saat ini belum ada, namun jika ruangan untuk podcast itu ada"]
+        },
+        {
+            "tag": "fasilitas2",
+            "responses": ["Ada beberapa yang berfungsi dengan baik, dan ada beberapa juga yang harus dilakukan perbaikan"]
+        },
+        {
+            "tag": "fasilitas3",
+            "responses": ["Untuk fasilitas saat ini baru tersedia ruang praktik"]
+        },
+        {
+            "tag": "fasilitas4",
+            "responses": ["Proyektor, AC, Smart TV"]
+        },
+        {
+            "tag": "fasilitas5",
+            "responses": ["4 atau lebih, mohon maaf jika tidak bisa disebutkan secara detail"]
+        },
+        {
+            "tag": "fasilitas6",
+            "responses": ["Kualitas WC untuk sekarang sangat baik, hanya saja untuk toilet hanya ada 1 ruangan untuk laki-laki"]
+        },
+        {
+            "tag": "fasilitas7",
+            "responses": ["SmartTV, AC, WC, Proyektor, Ruang Praktik, DLL"]
+        },
+        {
+            "tag": "fasilitas8",
+            "responses": ["Untuk lab jurusan boleh digunakan kapan saja selama jam kerja, tetapi harus konfirmasi terlebih dahulu ke pihak yang berwenang."]
+        },
+        {
+            "tag": "fasilitas9",
+            "responses": ["WC, Ruang Komunitas, Ruang Podcast"]
+        },
+        {
+            "tag": "fasilitas10",
+            "responses": ["Mohon maaf atas ketidaknyamanannya, kami sedang mengusahakan semaksimal mungkin perihal AC ditiap ruangan."]
+        },
+        {
+            "tag": "fasilitas11",
+            "responses": ["Kualitas WIFI sebetulnya sangat baik. Namun, dikarenakan banyaknya user yang terhubung membuat salah satu faktor bahwa WIFI terasa lambat."]
+        },
+        {
+            "tag": "magang12",
+            "responses": ["Kami akan memperbaiki dari segi sosialisasi kegiatan terkait akademik."]
+        },
+        {
+            "tag": "jurusan7",
+            "responses": ["Teknik Informatika menawarkan berbagai peluang karier di berbagai industri. Lulusan dapat bekerja dalam berbagai peran seperti insinyur perangkat lunak, pengembang web, administrator jaringan, analis sistem, analis data, administrator basis data, dan profesional keamanan siber."]
+        },
+        {
+            "tag": "fasilitas12",
+            "responses": ["Bisa, jika masih pada jam kerja. Hanya perlu untuk konfirmasi peminjaman ruangan pada pihak yang berwenang."]
+        },
+        {
+            "tag": "beasiswa",
+            "responses": ["Untuk saat ini kami belum mendapatkan informasinya. Namun, jika ada pasti akan disalurkan kepada seluruh mahasiswa Teknik Informatika."]
+        },
+        {
+            "tag": "karir8",
+            "responses": ["Sertifikat memang diperlukan. Namun, Soft skill dari pribadi itu menjadi kunci utama."]
+        },
+        {
+            "tag": "karir9",
+            "responses": ["Ada beberapa seperti antara lain :\n1. Programmer.\n2. Data scientist & Data Analyst.\n3. Game developer.\n4. Cyber Security Analyst.\n5. UX Designer.\n6. Web Developer.\n7. Konsultan IT."]
+        },
+        {
+            "tag": "dosen",
+            "responses": ["Untuk contact person dosen ada pada website IF di https://if.uinsgd.ac.id/lecturer"]
+        },
+        {
+            "tag": "jurusan7",
+            "responses": ["Tanyakan kepada Ketua Jurusan Dian Sa'adillah Maylawati, S.Kom., MT., Ph.D"]
+        },
+        {
+            "tag": "jurusan8",
+            "responses": ["Untuk saat ini (26-November-2023) adalah Dian Sa'adillah Maylawati, S.Kom., MT., Ph.D"]
+        },
+        {
+            "tag": "jurusan9",
+            "responses": ["Dikarenakan melihat peluang dimasa depan AI dan jaringan akan dibutuhkan keterampilannya."
+            ]
+        },
+        {
+            "tag": "jurusan10",
+            "responses": ["Untuk timeline kami dari jurusan sudah menerapkan program percepatan kelulusan. Support kami selalu."
+            ]
+        },
+        {
+            "tag": "karir1",
+            "responses": ["Ada beberapa langkah yang dapat dilakukan jika anda ingin memulai karir dibidang informatika, diantaranya : \n1. Tentukan area spesifik di bidang informatika yang Anda minati, seperti pengembangan perangkat lunak, analisis data, keamanan informasi, atau jaringan komputer.\n2. Kuasai setidaknya satu atau beberapa bahasa pemrograman yang umum digunakan, seperti Python, Java, JavaScript, atau C++.\n3. Pahami dasar-dasar pengelolaan basis data, termasuk SQL.\n4. Bangun proyek-proyek pribadi yang mencerminkan keterampilan dan minat Anda. Proyek-proyek ini bisa dijadikan bagian dari portofolio Anda.\n5.  Dapat mengikuti proyek-proyek nyata atau kerjasama industri untuk mendapatkan pengalaman praktis.\nBidang yang relevan dengan Informatika diantaranya :\n1. Software Developer.\n2. Data Science.\n3. Information Security.\n4. Networking and Systems.\n5. Web Developer.\n6. Front-end Developer.\n7. Front-end Developer.\nAda beberapa bidang lainnya yang relevan dengan Informatika. "
+            ]
+        },
+        {
+            "tag": "magang1",
+            "responses": ["Ya, tempat magang dapat menjadi tempat kerja tetap setelah menyelesaikan studi. Beberapa perusahaan menggunakan program magang sebagai cara untuk menilai potensi karyawan masa depan dan memperkenalkan mereka pada lingkungan kerja perusahaan. Namun semua tergantung kepada tempat Anda magang. "
+            ]
+        },
+        {
+            "tag": "magang2",
+            "responses" : ["Bisa, namun jangan lupa untuk mengontrak Kerja Praktik terlebih dahulu."
+            ]
+        },
+        {
+            "tag": "magang3",
+            "responses": ["Terdapat banyak tempat magang yang relevan dengan jurusan teknik informatika, diantaranya :\n1. Perusahaan Teknologi.\nBanyak perusahaan teknologi besar dan start-up mencari magang di bidang pengembangan perangkat lunak.\n2. Perusahaan Keamanan Siber.\nKeamanan siber adalah bidang yang terus berkembang, dan magang di perusahaan keamanan siber dapat memberikan wawasan yang berharga.\n3. Perusahaan Konsultan IT.\nPerusahaan konsultan IT menyediakan layanan konsultasi teknologi kepada klien, dan magang di sini dapat memberikan pengalaman beragam.\n4. Perusahaan E-Commerce atau Startup.\nDi perusahaan e-commerce atau start-up, dapat mendapatkan pengalaman pengembangan aplikasi web atau mobile.\n5. Industri Finansial\nPerusahaan di sektor keuangan sering mencari orang untuk membantu menganalisis data keuangan dan risiko.\n6. Industri kesehatan.\nDalam industri kesehatan, magang di pengembangan perangkat lunak untuk sistem manajemen rekam medis atau aplikasi kesehatan bisa menjadi pilihan.\nBanyak peluang  yang bisa diraih setelah lulus, yaitu :\n1. Posisi junior di perusahaan teknologi.\n2. Membuat usaha sendiri seperti startup.\n3. Partisipasi dalam Program Pengembangan Profesional.\n4. Networking dan Jaringan Profesional."
+            ]
+        },
+        {
+            "tag": "magang4",
+            "responses": ["Jika Anda bingung memillih tempat magang, Anda bisa menanyakan kepada jurusan apakah ada tempat untuk magang di Kampus, karena biasanya setiap tahun jurusan akan meminta beberapa orang untuk  membantu di jurusan. Tak hanya di jurusan, biasanya jurusan akan memberikan rekomendasi di tempat lain seperti perpustakaan UIN."
+            ]
+        },
+        {
+            "tag": "magang",
+            "responses": ["Di jurusan Teknik Informatika sendiri magang dapat dimulai pada saat semester 7, sebelum memulai magang jangan lupa untuk mengambil krs terlebih dahulu. Untuk waktu magang dibatasi maksimal 2 bulan. Untuk memulainya itu tidak ada waktu yang tetap, tergantung mahasiswa dapat tempat magang nya kapan."
+            ]
+        },
+        {
+            "tag": "magang5",
+            "responses": ["Berikut prosedur pelaksanaan Kerja Praktik\n1. Mahasiswa sudah mempunyai rencana tempat KP\n2. Mahasiswa mengajukan Surat Permohonan Tempat KP ke Fakultas\n3. Mahasiswa membawa Surat Permohonan Kerja Praktik ke instansi tempat akan melaksanakan kerja praktik. \n4. Mahasiswa membawa formulir Jawaban Kerja Praktik dari Instansi untuk diserahkan ke Fakultas sebagai bukti telah diijinkan\/ditolak melakukan Kerja Praktik di instansi yang bersangkutan. Apabila jawaban dari tempat KP ditolak maka kembali no. 2\n5. Mahasiswa membawa salinan Jawaban Kerja Praktik dari Instansi ke Jurusan untuk dibuatkan surat permohonan untuk menjadi Dosen Pembimbing Kerja Praktik. \n6. Surat permohonan diserahkan jurusan kepada fakultas untuk dibuatkan SK Dosen Pembimbing. \n7. Mahasiswa dapat mengambil SK Dosen pembimbing di jurusan jika sudah selesai dibuat. \n8. Mahasiswa menyerahkan SK kepada Dosen Pembimbing. \n9. Kerja Praktik dilaksanakan minimal dalam 1 bulan dan maksimal 2 bulan, dengan selalu berkonsultasi pada 10.Pembimbing kerja praktik di kampus dan pembimbing Instansi di instansi yang bersangkutan minimal 8 kali pertemuan, dibuktikan dengan cap dari instansi. \n11.Setelah mahasiswa selesai menjalankan kerja praktik, laporan harus disetujui oleh Pembimbing Instansi dan Pembimbing Kerja Praktik dan diketahui oleh Ketua Jurusan. \n12.Untuk mengikuti Seminar Kerja Praktik, mahasiswa diharuskan melakukan pendaftaran secara online di portal SALAM\n13.Setelah mahasiswa melakukan pendaftaran, mahasiswa membawa semua berkas persyaratan yang tercantum pada lembar pendaftaran dan menyerahkannya kepada jurusan. Lembar pendaftaran dapat mahasiswa unduh setelah selesai melakukan pendaftaran \n14.Jurusan menentukan jadwal Seminar Kerja Praktik. \n15.Selanjutnya Mahasiswa melakukan presentasi di depan Dosen Penguji dalam Seminar Kerja Praktik. \n16.Mahasiswa yang lulus seminar menyelesaikan semua revisi yang diberikan oleh Dosen Pembimbing. \n17.Setelah laporan selesai di revisi, laporan harus disahkan oleh Pembimbing Instansi dan Pembimbing Kerja Praktik dan diketahui oleh Ketua Jurusan \n18.Pembimbing Kerja Praktik melakukan penilaian dengan memperhatikan penilaian dari Pembimbing Instansi. \n19.Pelakasanaan keseluruhan KP maksimal satu semester. Jika lewat dari waktu tersebut maka mahasiswa diwajibkan untuk mengambil\/mengontrak kembali mata kuliah Kerja Praktik di KRS."
+            ]
+        },
+        {
+            "tag": "karir2",
+            "responses": ["Berikut adalah beberapa peluang karir yang terkait dengan informatika dan teknologi yang dapat memberikan pengalaman luar kota atau luar negeri:\n1. Pengembangan Perangkat Lunak Global : Bekerja sebagai pengembang perangkat lunak untuk perusahaan teknologi global atau start-up di berbagai negara.\n2. Analisis Data dan Ilmu Data Internasional : Berkontribusi pada proyek analisis data atau kecerdasan buatan yang melibatkan kerjasama lintas batas.\n3. Konsultan Teknologi Internasional : Menjadi konsultan IT internasional yang membantu perusahaan di berbagai negara memecahkan masalah teknologi mereka.\n4. Pekerjaan di Industri Keamanan Siber Internasional : Bekerja dalam bidang keamanan siber dan membantu melindungi sistem informasi di berbagai negara.\n5. Pengelolaan Proyek Teknologi Internasional : Mengelola proyek teknologi internasional untuk perusahaan yang memiliki operasi global.\n6. Pengembangan Aplikasi Web dan Mobile Global :  Bekerja dalam pengembangan aplikasi web atau mobile untuk perusahaan dengan klien atau pengguna global.\n7. Pekerjaan di Industri Teknologi Keuangan Internasional : Berkontribusi pada proyek teknologi keuangan yang melibatkan institusi keuangan di berbagai negara.\n8. Pekerjaan di Industri Kesehatan Internasional : Bekerja pada proyek perangkat lunak kesehatan atau sistem manajemen rekam medis di tingkat internasional.\n9. Pekerjaan di Start-up Internasional : Bergabung dengan start-up teknologi yang memiliki operasi global atau memasarkan produk global.\n10. Bekerja di Perusahaan Teknologi Besar : Bekerja di pusat riset atau pengembangan perusahaan teknologi besar yang memiliki lokasi di berbagai negara.\n11. Pekerjaan di Industri Game Internasional : Bekerja di industri game dan pengembangan permainan yang dapat diakses oleh audiens global.\n12. Bekerja di Organisasi Nirlaba Internasional : Memberikan dukungan teknologi untuk organisasi nirlaba yang memiliki proyek di seluruh dunia."
+            ]
+        },
+        {
+            "tag": "magang6",
+            "responses" : ["Anda bisa menanyakan langsung pada pihak jurusan karena setiap tahun intansi yang bekerjasama dengan UIN berbeda"
+            ]
+        },
+        {
+            "tag": "karir3",
+            "responses": ["Di Indonesia, ada banyak perusahaan teknologi dan informatika yang menawarkan peluang karir. Berikut adalah beberapa perusahaan di Indonesia yang dikenal karena lingkungan kerja yang inovatif dan berkembang:\n\n1. Gojek \n   - Gojek adalah perusahaan teknologi asal Indonesia yang menawarkan berbagai layanan seperti ride-hailing, pengantaran makanan, dan pembayaran digital. Mereka memiliki pusat pengembangan di berbagai kota di Indonesia.\n2.  Tokopedia (sekarang bergabung dengan Bukalapak menjadi TokoLapak): \n   - Tokopedia adalah salah satu platform e-commerce terbesar di Indonesia. Bergabungnya dengan Bukalapak menjadi TokoLapak memperkuat kehadiran mereka di industri e-commerce.\n3.  Traveloka: \n   - Traveloka adalah perusahaan teknologi yang menyediakan layanan pemesanan tiket pesawat, hotel, dan aktivitas perjalanan lainnya. Mereka memiliki pusat pengembangan di Indonesia.\n4.  Bukalapak (sekarang bergabung dengan Tokopedia menjadi TokoLapak): \n   - Bukalapak adalah platform e-commerce Indonesia yang menyediakan tempat bagi penjual dan pembeli untuk bertransaksi. Setelah bergabung dengan Tokopedia, keduanya menjadi TokoLapak.\n5.  Kredivo: \n   - Kredivo adalah perusahaan fintech yang menyediakan layanan pembayaran online dan kredit digital di Indonesia. Mereka terus berkembang dalam industri finansial teknologi.\n6.  Shopee: \n   - Shopee adalah platform e-commerce yang populer di Asia Tenggara, termasuk Indonesia. Mereka menawarkan berbagai produk dan layanan dengan fokus pada pengalaman belanja online.\n7.  Traveloka: \n   - Traveloka, selain menjadi platform perjalanan, juga memiliki fokus pada pengembangan teknologi terkait perjalanan dan kebutuhan konsumen.\n8.  Ruangan: \n   - Ruangan adalah perusahaan teknologi yang menyediakan layanan keuangan digital, termasuk pinjaman online dan solusi pembayaran.\n9.  Kumparan: \n   - Kumparan adalah perusahaan media digital yang fokus pada berita dan konten di Indonesia. Mereka juga berinvestasi dalam teknologi untuk meningkatkan pengalaman membaca.\n10.  HaloDoc: \n    - HaloDoc adalah platform kesehatan digital yang menyediakan layanan konsultasi dokter online, pemesanan obat, dan informasi kesehatan.\n11.  Mekari: \n    - Mekari menyediakan solusi perangkat lunak untuk manajemen sumber daya manusia (SDM), keuangan, dan akuntansi untuk perusahaan di Indonesia.\n12.  Dana Cita: \n    - Dana Cita adalah perusahaan edtech yang menyediakan layanan pembelajaran daring dan berbagai solusi teknologi untuk pendidikan di Indonesia.\n\nPastikan untuk melakukan riset lebih lanjut tentang perusahaan-perusahaan tersebut, mempertimbangkan nilai-nilai, budaya perusahaan, dan tuntutan pekerjaan sebelum mengajukan lamaran. Selalu cek situs resmi perusahaan atau platform pencarian kerja untuk melihat informasi terkini tentang lowongan pekerjaan."
+            ]
+        },
+        {
+            "tag": "magang7",
+            "responses": ["Sampai saat ini belum ada tempat khusus untuk melihat informasi terkait magang dan karir untuk mahasiswa fresh graduate di platform milik jurusan. Anda bisa mencarinya di platform lain."
+            ]
+        },
+        {
+            "tag": "magang8",
+            "responses": ["Terkait kejelasan tempat magang anda bisa menghubungi pihak jurusan atau dosen pembimbing kerja praktik secara langsung."
+            ]
+        },
+        {
+            "tag": "magang",
+            "responses": ["Di jurusan Teknik Informatika sendiri magang dapat dimulai pada saat semester 7, sebelum memulai magang jangan lupa untuk mengambil krs terlebih dahulu. Untuk waktu magang dibatasi maksimal 2 bulan. Untuk memulainya itu tidak ada waktu yang tetap, tergantung mahasiswa dapat tempat magang nya kapan."
+            ]
+        },
+        {
+            "tag": "karir4",
+            "responses": ["Jika Anda berminat untuk melamar pekerjaan di jurusan, Anda bisa menghubungi langsung Ketua Jurusan."
+            ]
+        },
+        {
+            "tag": "magang",
+            "responses": ["Di jurusan Teknik Informatika sendiri magang dapat dimulai pada saat semester 7, sebelum memulai magang jangan lupa untuk mengambil krs terlebih dahulu. Untuk waktu magang dibatasi maksimal 2 bulan. Untuk memulainya itu tidak ada waktu yang tetap, tergantung mahasiswa dapat tempat magang nya kapan."
+             ]
+        },
+        {
+            "tag": "karir5",
+            "responses": ["Untuk informasi mengenai lowongan pekerjaan dari alumni, Anda bisa langsung menghubungi dosen atau Ketua Jurusan secara langsung karena tidak setiap saat ada lowongan yang diberikan alumni untuk mahasiswa."
+            ]
+        },
+        {
+            "tag": "karir6",
+            "responses": ["Ada beberapa langkah yang dapat dilakukan jika anda ingin memulai karir dibidang informatika, diantaranya : \n1. Tentukan area spesifik di bidang informatika yang Anda minati, seperti pengembangan perangkat lunak, analisis data, keamanan informasi, atau jaringan komputer.\n2. Kuasai setidaknya satu atau beberapa bahasa pemrograman yang umum digunakan, seperti Python, Java, JavaScript, atau C++.\n3. Pahami dasar-dasar pengelolaan basis data, termasuk SQL.\n4. Bangun proyek-proyek pribadi yang mencerminkan keterampilan dan minat Anda. Proyek-proyek ini bisa dijadikan bagian dari portofolio Anda.\n5.  Dapat mengikuti proyek-proyek nyata atau kerjasama industri untuk mendapatkan pengalaman praktis."
+            ]
+        },
+        {
+            "tag": "magang9",
+            "responses": ["Banyak perusahaan menawarkan program magang yang dirancang untuk memberikan pengalaman praktis kepada mahasiswa atau fresh graduate dan pada akhirnya dapat membuka peluang bagus untuk jenjang karir. Magang dapat menjadi pintu masuk yang baik ke dunia profesional dan memungkinkan Anda membangun jaringan, memahami industri, dan mengembangkan keterampilan yang diperlukan."
+            ]
+        },
+        {
+            "tag": "magang10",
+            "responses": ["Banyak perusahaan dan sektor industri yang menawarkan magang berbayar, seperti Gojek, Tokopedia, Traveloka, Bukalapak, Bank Mandiri, Bank BCA, Bank Danamon, dan perusahaan lainnya."
+            ]
+        },
+        {
+            "tag": "karir7",
+            "responses": ["Sertifikasi di jurusan tidak menentu, Anda bisa menanyakan kepada dosen terkait sertifikasi yang ada di jurusan."
+            ]
+        },
+        {
+            "tag": "magang11",
+            "responses": ["Tentu saja ada, setiap masa magang jurusan pasti akan menawarkan beberapa job untuk magang dijurusan, jika Anda berminat untuk magang dijurusan, Anda dapat menghubungi dosen atau pihak jurusan."
+            ]
+        }
+    ]
+}
